@@ -1,5 +1,5 @@
 # SapiensAcademyFinalProject
-5 small real world examples of OOp design patterns
+5 small real world examples of OOP design patterns
 
 Design Patterns represent the best practices used by experienced object-oriented
 software developers. Design patterns are solutions to general problems that
@@ -55,7 +55,7 @@ classes, depending on the data provided to it. This implies that the classes it 
 have same parent class and methods, but each of them performs tasks differently
 for different kind of data.
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](Assets/Img/Picture1.jpg?raw=true "Title")
 
 In the above image, you can see to subclasses ChildClass1 and ChildClass2, both
 have the same parent ParentClass. This means that Factory can return any of the
